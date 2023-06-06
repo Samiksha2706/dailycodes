@@ -21,7 +21,7 @@ public class inverse{
     }  */
     Scanner sc=new Scanner(System.in); 
     int num = sc.nextInt();
-
+//declaring
     int inv=0;
     int op=1;
     while(num!=0){
